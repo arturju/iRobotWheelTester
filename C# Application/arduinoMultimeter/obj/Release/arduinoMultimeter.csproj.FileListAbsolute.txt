@@ -1,0 +1,13 @@
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\arduinoMultimeter.exe.config
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\arduinoMultimeter.exe
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\arduinoMultimeter.pdb
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\ZedGraph.dll
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\obj\Release\arduinoMultimeter.testForm.resources
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\obj\Release\arduinoMultimeter.Properties.Resources.resources
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\obj\Release\arduinoMultimeter.csproj.GenerateResource.Cache
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\obj\Release\arduinoMultimeter.exe
+c:\users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\obj\Release\arduinoMultimeter.pdb
+C:\Users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\ZedGraph.Web.dll
+C:\Users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\ZedGraph.xml
+C:\Users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\bin\Release\ZedGraph.Web.xml
+C:\Users\ajumpa\documents\visual studio 2013\Projects\arduinoMultimeter\arduinoMultimeter\obj\Release\arduinoMultimeter.csprojResolveAssemblyReference.cache

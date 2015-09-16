@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Other files
+*.atsuo
+
+
+
 # =========================
 # Operating System Files
 # =========================
